@@ -1,7 +1,7 @@
 # JS FRAMEWORKS COURSE ASSIGNMENT
 
-![image](https://github.com/mmunkvold/portfolio-2/src/images/starwars.png)
-![image](https://github.com/mmunkvold/portfolio-2/src/images/detail.png)
+![star wars](https://github.com/mmunkvold/jsframeworksCA/blob/main/src/images/starwars.png)
+![luke from star wars](https://github.com/mmunkvold/jsframeworksCA/blob/main/src/images/detail.png)
 
 Main assignment in the JS Frameworks Course
 
