@@ -1,4 +1,4 @@
-export const BASE_URL = process.env.REACT_APP_BASE_URL;
+export const BASE_URL = "https://akabab.github.io/starwars-api/api/";
 
 export const allResultsUrl = BASE_URL + "all.json";
 

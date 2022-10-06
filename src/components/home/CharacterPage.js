@@ -18,7 +18,7 @@ const CharacterPage = () => {
   }
 
   const url = itemUrl(id);
-
+  console.log(itemUrl);
   useEffect(
     function () {
       async function fetchData() {

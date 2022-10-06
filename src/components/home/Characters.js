@@ -26,5 +26,3 @@ Characters.propTypes = {
 };
 
 export default Characters;
-
-// get 404 on results that don't show an image (there is a placeholder in the url...), both on home and detail page. I guess the visitor wouldn't mind as the placeholder shows, but I'm sure there is a way to avoid this error. I have tried several things, replacing image etc, without any luck. Didn't get any help, so I just deliever the assignment knowing there needs to be done something about this.

@@ -9,7 +9,7 @@ import { LOGIN_URL, TOKEN_PATH } from "../../constants/api";
 import AuthContext from "../../context/AuthContext";
 
 const url = LOGIN_URL + TOKEN_PATH;
-
+console.log(url);
 const schema = yup.object().shape({
   username: yup.string().required("Please enter your username"),
   password: yup.string().required("Please enter your password"),
