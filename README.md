@@ -1,8 +1,8 @@
 # JS FRAMEWORKS COURSE ASSIGNMENT
 
-<p float="center">
-<img src="https://github.com/mmunkvold/jsframeworksCA/blob/main/src/images/starwars.png" width="100" alt="Star Wars characters">
-<img src="https://github.com/mmunkvold/jsframeworksCA/blob/main/src/images/detail.png" width="100" alt="Luke from star wars"></p>
+<p float="left">
+<img src="https://github.com/mmunkvold/jsframeworksCA/blob/main/src/images/starwars.png" width="250" alt="Star Wars characters">
+<img src="https://github.com/mmunkvold/jsframeworksCA/blob/main/src/images/detail.png" width="250" alt="Luke from star wars"></p>
 
 Main assignment in the JS Frameworks Course
 
