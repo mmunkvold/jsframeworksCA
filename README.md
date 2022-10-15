@@ -3,11 +3,11 @@
 <img src="https://github.com/mmunkvold/jsframeworksCA/blob/main/src/images/starwars.png" width="250" alt="Star Wars characters">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/mmunkvold/jsframeworksCA/blob/main/src/images/detail.png" width="250" alt="Luke from star wars">
 
-Main assignment in the JS Frameworks Course
+Main assignment in the JS Frameworks Course - I just called it [Characters of Star Wars](https://charactersofstarwars.netlify.app/)
 
 ## Description
 
-This the JS Frameworks Course Assignment which is about fetching and using a public api to create a site, including an admin section
+This is the JS Frameworks Course Assignment which is about fetching and using a public api to create a site, including an admin section
 
 **Project consists of:**
 
